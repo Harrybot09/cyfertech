@@ -1,0 +1,1 @@
+[26-Jul-2022 13:35:18 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\api\ServicesApiController::cartadd() in /home3/mastetnr/public_html/cyfertech/app/Http/Controllers/api/ServicesApiController.php on line 269
